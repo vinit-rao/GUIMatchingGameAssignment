@@ -8,10 +8,11 @@ I made this back in highschool and recently reopened the application to build an
 
 If thats too much work fill free to just watch this video demoing the game :)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Rl1UXpWMZY?si=l_NlFVdnq3plJVoR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![playinggofish-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/db59a454-10d5-45b1-9d4e-489204c21648)
 
 
-##SETUP
-https://github.com/user-attachments/assets/33f8aa0b-1d6f-4fd9-a49d-1ccb0ef564be
+
+# SETUP
+![howtoplaygofish-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/e62f4f3f-923c-40db-ae6f-a96ec25e8882)
 
 
