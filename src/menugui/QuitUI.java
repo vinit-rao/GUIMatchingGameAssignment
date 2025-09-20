@@ -81,7 +81,7 @@ public class QuitUI extends javax.swing.JFrame {
     }//GEN-LAST:event_bNoActionPerformed
 
     private void bYesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bYesActionPerformed
-        dispose();
+        System.exit(0);
     }//GEN-LAST:event_bYesActionPerformed
 
     /**
