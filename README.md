@@ -7,3 +7,8 @@ Graphics: Canva & Adobe Photoshop 23
 I made this back in highschool and recently reopened the application to build and let users play. Feel free to download and run /dist/MenuGUI.jar.
 
 If thats too much work fill free to just watch this video demoing the game :)
+
+##SETUP
+https://github.com/user-attachments/assets/33f8aa0b-1d6f-4fd9-a49d-1ccb0ef564be
+
+
